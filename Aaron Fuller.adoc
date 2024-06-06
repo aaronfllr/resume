@@ -17,38 +17,44 @@ Raleigh, NC
 
 == RELEVANT WORK EXPERIENCE
 
-*Eliassen Group*  
-Technical Recruiter (April 2021 - March 2024)
-**  Created bash scripts and assigned hotkeys to automate routine tasks
-**  Created an automation script to track H1B candidates for immigration advisor
-**  Automated weekly tasks utilizing web scraping (Python & Selenium)
-**  Built dashboards with PowerBI for metric tracking and prospecting corporations
-**  Maintained GM expectations exceeding all quotas
+.*Eliassen Group*  
+Technical Recruiter (April 2021 - March 2024) +
 
-*DSIStaff Inc*  
-Technical Recruiter (promoted) (August 2019 - April 2021)
-**  Built a prototype for a mobile GM calculator using Kivy framework and Python
-**  Developed an understanding of older Java-based technologies and which companies are likely to utilize them
+* Created bash scripts and assigned hotkeys to automate routine tasks
+* Created an automation script to track H1B candidates for immigration advisor
+* Automated weekly tasks utilizing web scraping (Python & Selenium)
+* Built dashboards with PowerBI for metric tracking and prospecting corporations
+* Maintained GM expectations exceeding all quotas
 
-Jr. Inside Sales Representative (May 2019 - August 2019)
+.*DSIStaff Inc*  
+Technical Recruiter (promoted) (August 2019 - April 2021) +
+
+* Built a prototype for a mobile GM calculator using Kivy framework and Python
+* Developed an understanding of older Java-based technologies and which companies are likely to utilize them
+
+Jr. Inside Sales Representative (May 2019 - August 2019) +
+
 **  Learned about open source utilization in our product and actively worked with the Lead Database Developer
 **  Utilized my healthcare background to assist with UX design and demonstrations 
 
-*Appalachian Regional Healthcare System, Boone, NC*  
-Employee Wellness Specialist (promoted) (May 2017 - October 2018)
+.*Appalachian Regional Healthcare System, Boone, NC*  
+Employee Wellness Specialist (promoted) (May 2017 - October 2018) +
+
 **  Automated common day-to-day Excel tasks and created dashboards and graphs that were presented to the C-Suite
 **  Conducted physiological assessments: percent body fat, flexibility, muscular strength, muscular endurance, and cardiorespiratory endurance 
 **  Gave group presentations promoting our program to employees going through orientation
 **  Maintained and organized health-related data for over 1000 employees 
 
-Certified Nursing Assistant (January 2017 - May 2017)
+Certified Nursing Assistant (January 2017 - May 2017) +
+
 **  Acted as patient advocate and implemented all phases of the nursing process while caring for patients efficiently
 **  Accurately and efficiently input data into computer systems 
 
 == INTERNSHIP EXPERIENCE
 
-*Cardiopulmonary Rehabilitation Intern*  
-Fall 2015
+.*Cardiopulmonary Rehabilitation Intern*  
+Fall 2015 +
+
 **  Read and attached varying lead configurations of ECGs daily
 **  Recognized and enforced all American College of Sports Medicine guidelines for exercise testing and prescription
 **  Responsible for taking multiple vitals for each patient 
@@ -69,10 +75,10 @@ Fall 2015
 
 == EDUCATION
 
-*Appalachian State University*  
+.*Appalachian State University*  
 Bachelor of Science, Exercise Science concentration in Clinical Physiology; Minor, Psychology (August 2016)
 
 == PROFILES
 
-*LinkedIn:* https://www.linkedin.com/in/aaron-fuller-32776910b/  
+*LinkedIn:* https://www.linkedin.com/in/aaron-fuller-32776910b/ +  
 *GitHub:* https://github.com/aaronfllr
