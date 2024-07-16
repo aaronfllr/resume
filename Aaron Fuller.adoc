@@ -81,4 +81,5 @@ Bachelor of Science, Exercise Science concentration in Clinical Physiology; Mino
 == PROFILES
 
 *LinkedIn:* https://www.linkedin.com/in/aaron-fuller-32776910b/ +  
-*GitHub:* https://github.com/aaronfllr
+*GitHub:* https://github.com/aaronfllr +
+*Portfolio:* https://portfolio-aaronfllrs-projects.vercel.app/
